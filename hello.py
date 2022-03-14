@@ -27,8 +27,9 @@
 #print(b)
 #print(type(b))
 ##operators
-from ast import Div, FloorDiv, Mod, Mult
-from operator import mod
+#from ast import Div, FloorDiv, Mod, Mult
+#
+# from operator import mod
 
 
 a=1
